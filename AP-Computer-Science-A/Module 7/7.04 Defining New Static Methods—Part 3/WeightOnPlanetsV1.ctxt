@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WeightOnPlanetsV1
+comment1.params=
+comment1.target=double[]\ gravity()
+comment2.params=gravities\ weight
+comment2.target=double[]\ pounds(double[],\ double[])
+comment3.params=gravities\ weight\ planetNames
+comment3.target=void\ print(double[],\ double[],\ java.lang.String[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

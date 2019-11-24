@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CarV3
+comment0.text=\r\n\ Project\ title\:\ 08.03\ Default\ constructors.\r\n\r\n\ Purpose\ of\ Project\:\ Calculates\ the\ gas\ mileage\ on\ an\ example\ car.\r\n\r\n\ @version\ 11/24/2019\r\n\r\n\ @author\ Anika\ Jallipalli\r\n
+comment1.params=
+comment1.target=CarV3()
+comment2.params=type\ endMi\ startMi\ galUsed\ pricePerGal\ costOfGals\ milesPerGal\ galsPerMile
+comment2.target=CarV3(java.lang.String,\ int,\ int,\ double,\ double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=int\ calcDistance()
+comment4.params=
+comment4.target=double\ calcMPG()
+comment5.params=
+comment5.target=double\ calcGPM()
+comment6.params=
+comment6.target=double\ calcCost()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FormattingStrings
+comment0.text=\r\n\ This\ program\ demonstrates\ how\ to\ format\ strings\ with\ the\ printf()\ method.\r\n\r\n\ After\ reading\ each\ section\ of\ the\ lesson\ on\ formatting\ strings,\ remove\ the\r\n\ comments\ for\ the\ appropriate\ section\ of\ code,\ then\ run\ it\ to\ see\ printf()\r\n\ in\ action.\r\n\r\n\ @author\ David\ J.\ Farber\r\n\ @version\ 06/06/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

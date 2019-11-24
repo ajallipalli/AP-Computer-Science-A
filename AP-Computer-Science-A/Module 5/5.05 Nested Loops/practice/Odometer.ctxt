@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Odometer
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ demonstrate\ nested\r\n\ for\ loops.\r\n\r\n\ @author\ Charles\ Babbage\r\n\ @version\ 06/05/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
